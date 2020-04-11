@@ -1,4 +1,4 @@
 - 新人须知
-    - [服务器规则](rules.md)
+    - [服务器规则](NS_Server/rules.md)
     - [加入夜桜社](join.md)
     - [常见问题](faq.md)
