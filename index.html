@@ -13,11 +13,25 @@
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
   <script>
-    window.$docsify = {
+    window.$docsify = 
+    {
       name: 'NightSakura Wiki',
       loadNavbar: true,
       loadSidebar: true,
-      themeColor: '#FFB6C1'
+      themeColor: '#FFB6C1',
+      subMaxLevel: 2,
+      relativePath: false,
+      mergeNavbar: true,
+      auto2top: true,
+      search: 'auto',
+      search: 
+      {
+        maxAge: 86400000,
+        paths: 'auto',
+        placeholder: '在这里搜索',
+        noData: '内容不存在',
+        namespace: 'NightSakura Wiki',
+      }
     }
   </script>
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
