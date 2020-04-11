@@ -1,4 +1,7 @@
 - 新人须知
     - [服务器规则](NS_Server/rules.md)
-    - [加入夜桜社](join.md)
-    - [常见问题](faq.md)
+    - [加入夜桜社](NS_Server/join.md)
+    - [常用指令](NS_Server/commands.md)
+- 欢迎来到夜桜社
+    - [夜下の桜](NS_Server/NightSakura.md)
+    - [萌新指南](NS_Server/guide.md)
