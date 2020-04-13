@@ -1,15 +1,15 @@
 - 新人须知
     - [服务器规则](NS_Server/rules.md)
     - [加入夜桜社](NS_Server/join.md)
-    - [常用命令](NS_Server/commands.md)
 - 欢迎来到夜桜社
-    - [夜下の桜](NS_Server/NightSakura.md)
     - [萌新指南](NS_Server/guide.md)
+    - [常用命令](NS_Server/commands.md)
     - [世界列表](NS_Server/worlds.md)
     - [经济制度](NS_Server/eco.md)
     - [住民建设](NS_Server/constructions.md)
     - [夜桜服务](NS_Server/service.md)
     - [用户组](NS_Server/members.md)
 - 夜桜物语
+    - [夜下の桜](NS_Server/story/NightSakura.md)
+    - [绯桜の染](NS_Server/story/Bloodsakura.md)
     - [NPC列表](NS_Server/npc.md)
-    - [绯樱之染](NS_Server/story/bloodsakura.md)
