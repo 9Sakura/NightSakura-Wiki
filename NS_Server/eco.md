@@ -29,6 +29,8 @@
 
 箱子商店的布置位置不限。
 
+?> ❕ 目前推荐的箱子商店区有[夜桜商业街](NS_Server/constructions/ns_island?id=夜桜商店街)与[初桜神社祭典市场](NS_Server/constructions/hatsusaku_jinja?id=祭典市场)
+
 ### 桜云商城
 
 桜云商城是夜桜社的菜单型商店。
