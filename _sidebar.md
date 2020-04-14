@@ -13,3 +13,8 @@
     - [夜下の桜](NS_Server/story/NightSakura.md)
     - [绯桜の染](NS_Server/story/Bloodsakura.md)
     - [NPC列表](NS_Server/npc.md)
+    - [往期活动](NS_Server/story/events.md)
+- 关于
+    - [更新日志](NS_Server/about/changelog.md)
+    - [联系方式](NS_Server/about/contact.md)
+    - [赞助我们](NS_Server/about/donation.md)
