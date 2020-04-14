@@ -110,6 +110,7 @@
 | `/togglechop` | 开关一键砍树 | 默认关闭 |
 | `/hat` | 将手中的物品放在头上 | 占用头盔装备栏 |
 | `/placeitems toggle` | 开关物品放置 ||
+| `/nu sit` | 开关椅子功能 ||
 | `/nu show` | 展示手中物品 ||
 | `/nu exhibition set` | 保护光标所指的展示框 ||
 | `/nu exhibition unset` | 解除光标所指展示框的保护 ||
