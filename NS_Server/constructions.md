@@ -9,7 +9,7 @@
 | 工程名 | 说明 | 介绍链接 |
 | - | - | - |
 | 夜桜岛 | 夜桜社主城，住民出生地 | [介绍](NS_Server/constructions/ns_island.md) |
-| 初桜神社 | 夜桜社生存世界出生点 ||
+| 初桜神社 | 夜桜社生存世界出生点 | [介绍](NS_Server/constructions/hatsusaku_jinja.md) |
 | 八重村 | 观景点，PVP场 ||
 
 ## 住民小镇
