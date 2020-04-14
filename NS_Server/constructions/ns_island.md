@@ -21,8 +21,6 @@
 
 商店内的价格会不定期发生调整，目前为商店资源为无限。
 
-!> 无限设定可能会在将来发生变化。
-
 ![shop](../../_image/builds/system/shop.png)
 *使用拍摄光影：iterationT Next Hotfix*
 
