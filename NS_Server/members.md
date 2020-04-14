@@ -54,5 +54,5 @@
 
 ### 为服务器做出重大贡献
 
-- `Darthficy` 可使用`/fly`与`/give`命令
+- ~~`Darthficy` 可使用`/fly`与`/give`命令~~
 
