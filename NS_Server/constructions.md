@@ -28,10 +28,10 @@
 
 | 小镇名 | 镇长 | 活跃度 | 坐标位置 | 介绍链接 |
 | - | - | - | - | - |
-| 咕咕镇 | *立华奏*`ItsKanade` | 良好 | (-3784,769) ||
+| 咕咕镇 | *立华奏*`ItsKanade` | 良好 | (-3784,769) | [介绍](NS_Server/constructions/ggz.md) |
 | Sakura | *艾蕾*`IrKalla_` | 良好 | (-3909,-3423) ||
 | 皇冥镇 | *微笑*`awsl_weixiao`,*弥风*`awsl_mifeng` | 良好 | (-2487,-122) ||
-| 雪夜镇 | *种子*`Zi_You` | 良好 | (-2003,1951) ||
+| 雪夜镇 | *种子*`Zi_You` | 良好 | (-2003,1951) | [介绍](NS_Server/constructions/xyz.md) |
 | 玲珑阁 | `DOTYI`,`Read_you` | 良好 | (5990,424) ||
 | 斯卡那托斯 | *璎珞*`Serendipity77` | 良好 | (-16696,9980) | [介绍](NS_Server/constructions/sknts.md) |
 | 龙吟镇 | `Mo_Meak_Yu` | 良好 | (-17880,-5374) ||
