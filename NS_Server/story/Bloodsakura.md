@@ -1,6 +1,7 @@
-# <span style="color: #bc1717;">绯桜之染 Beta V1</span>
+# <span style="color: #bc1717;">绯桜之染 Beta Final</span>
 
-!> 此页面所记载内容会随时发生变化，为夜桜社的轻RPG风企划，锐意筹划中...
+!> 绯桜之染为夜桜社轻RPG风企划，本页面部分内容已经失效。  
+敬请期待绯桜之染 1.0  
 
 ## <span style="color: #bc1717;">绯桜背景</span>
 
