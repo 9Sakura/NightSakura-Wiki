@@ -30,6 +30,7 @@
 | - | - | - | - | - |
 | 咕咕镇 | *立华奏*`ItsKanade` | 良好 | (-3784,769) | [介绍](NS_Server/constructions/ggz.md) |
 | Sakura | *希儿*`SeeleVollerei_` | 良好 | (-3909,-3423) ||
+| 北雪平 | *阿兰*`ShowT1me_Alan` | 良好 | (1991,6319) ||
 | 皇冥镇 | *微笑*`awsl_weixiao`,*弥风*`awsl_mifeng` | 良好 | (-2487,-122) ||
 | 雪夜镇 | *种子*`Zi_You` | 良好 | (-2003,1951) | [介绍](NS_Server/constructions/xyz.md) |
 | 玲珑阁 | `DOTYI`,`Read_you` | 良好 | (5990,424) ||
