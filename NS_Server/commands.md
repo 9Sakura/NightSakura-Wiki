@@ -121,8 +121,8 @@
 | `/nu mailbox create` | 对光标所指箱子创建一个物品邮箱 ||
 | `/nu mailbox send <玩家名称>` | 将手中的物品发送到指定玩家的物品邮箱内 ||
 | `/nu mailbox remove` | 移除物品邮箱 ||
-| `/nu expcat store <经验值/ALL>` | 将经验储存在胶囊内 | 胶囊载体为**附魔之瓶** |
-| `/nu expcat restore <经验值/ALL>` | 将经验从胶囊中取出 ||
+| `/nu expcap store <经验值/ALL>` | 将经验储存在胶囊内 | 胶囊载体为**附魔之瓶** |
+| `/nu expcap restore <经验值/ALL>` | 将经验从胶囊中取出 ||
 
 ## 查询相关命令
 
