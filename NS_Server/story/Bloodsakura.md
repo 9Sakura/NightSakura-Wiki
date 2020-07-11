@@ -120,5 +120,5 @@ PP(PurePower)：纯化之力。主要用于释放纯化武器的攻击，停止�
 
 ## <span style="color: #bc1717;">怪物图鉴（工事中）</span>
 
-| 一阶 | 二阶 | 三阶 |
+| [野生怪物](Ns_Server/story/mobs.md) | 区域怪物 |
 
