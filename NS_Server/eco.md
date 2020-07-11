@@ -37,7 +37,7 @@
 
 相关指令详见[经济相关命令](NS_Server/commands?id=经济相关命令)中`/heh`类命令。
 
-木牌商店税率为`7%`
+木牌商店税率为`6%`
 
 创建方法：
 
@@ -47,7 +47,9 @@
 4. 对准木牌使用`/heh shop sell <单价>`或`/heh shop buy <单价>`上架你的商品
 5. `BUY`类木牌商店需要设置收购箱，使用`/heh shop storage set`指令后右击一个箱子即可设置。
 
-?> ❕ 创建完`SELL`类木牌商店后你还可以使用`/nyaaplayercoser hehshop set`创建一个代你出售货物的NPC。并且可以使用`/nyaaplayercoser hehshop remove`删除它。
+?> ❕ 创建完`SELL`类木牌商店后你还可以使用`/nyaaplayercoser hehshop set`创建一个代你出售货物的NPC。  
+     并且可以使用`/nyaaplayercoser hehshop remove`删除它。  
+     最多可创建两位NPC。
 
 ?> ❕ 目前推荐木牌商店区有[夜桜商业街](NS_Server/constructions/ns_island?id=夜桜商店街)
 
