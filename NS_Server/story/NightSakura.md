@@ -119,6 +119,14 @@
     
 ## 住民留影
 
+### 2020年劳动节建筑活动合影
+
+![202051](../../_image/player/202051.png)
+
+### 绯樱之染Beta纪念合影
+
+![bs_beta](../../_image/player/bs_beta.png)
+
 ### 2020年春节合影
 
 ![2020SF](../../_image/player/2020SF.png)
