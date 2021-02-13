@@ -10,7 +10,7 @@
 
 !> 此用户组的内容会在未来任意一时刻发生变化，也可能成为历史。
 
-夜桜社中在建筑方面有优点的玩家可以通过向管理组申请取得**建筑工权限**。
+~~夜桜社中在建筑方面有优点的玩家可以通过向管理组申请取得**建筑工权限**。~~
 
 建筑工权限在可以使用[常用命令](NS_Server/commands.md)之外额外享有两种命令的使用权限：
 
@@ -28,7 +28,7 @@
 
 **高级建筑工：**
 
-- `Kemomimi_` （曾用ID：armai_,Fourier_series,pure）
+- `Kochiya_` （曾用ID：Kemomimi_ armai_,Fourier_series,pure）
 - `Ancisimu`
 - `Rogue233`
 
