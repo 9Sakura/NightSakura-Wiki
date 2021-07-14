@@ -1,4 +1,18 @@
+- 新人须知
+    - [服务器规则](NS_Server/rules.md)
+    - [加入夜桜社](NS_Server/join.md)
+- 欢迎来到夜桜社
+    - [萌新指南](NS_Server/guide.md)
+    - [常用命令](NS_Server/commands.md)
+    - [世界列表](NS_Server/worlds.md)
+    - [住民建设](NS_Server/constructions.md)
+    - [夜桜服务](NS_Server/service.md)
+    - [用户组](NS_Server/members.md)
+- 夜桜物语
+    - [夜下の桜](NS_Server/story/NightSakura.md)
+    - [往期活动](NS_Server/story/events.md)
 - 关于
     - [更新日志](NS_Server/about/changelog.md)
     - [联系方式](NS_Server/about/contact.md)
     - [赞助我们](NS_Server/about/donation.md)
+- [夜桜旧时](Ns_Server_History/main.md)
