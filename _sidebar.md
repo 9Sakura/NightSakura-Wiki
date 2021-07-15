@@ -5,8 +5,7 @@
     - [萌新指南](NS_Server/guide.md)
     - [常用命令](NS_Server/commands.md)
     - [世界列表](NS_Server/worlds.md)
-    - [住民建设](NS_Server/constructions.md)
-    - [夜桜服务](NS_Server/service.md)
+    - [住民建设](NS_Server/town.md)
     - [用户组](NS_Server/members.md)
 - 夜桜物语
     - [夜下の桜](NS_Server/story/NightSakura.md)
