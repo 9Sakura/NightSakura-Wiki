@@ -15,4 +15,4 @@
     - [更新日志](NS_Server/about/changelog.md)
     - [联系方式](NS_Server/about/contact.md)
     - [赞助我们](NS_Server/about/donation.md)
-- [夜桜旧时](Ns_Server_History/main.md)
+- [夜桜旧时](NS_Server_History/main.md)
